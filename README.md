@@ -8,7 +8,7 @@ Ideą działania RSA jest to, że Alice wysyła "w świat" swoje klucze,
 za pomocą których teoretycznie każdy może zakodować wiadomość,  
 oraz wysłać jej tak, że tylko ona będzie mogła ją odkodować.  
 Jest to możliwe dzięki paru matamatycznym sztuczkom, skupionym wokół  
-funkaji Eulera, jej właściwości, arytmetyki modularnej i liczb pierwszych.  
+funkcji Eulera, jej właściwości, arytmetyki modularnej i liczb pierwszych.  
   
 Wikipedia dla zainteresowanych:  
 https://pl.wikipedia.org/wiki/RSA_(kryptografia)  
