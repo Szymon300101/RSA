@@ -25,7 +25,7 @@ nawet do 10^10.
 Przykładowy interface:  
 ![](interface01.PNG)  
   
-Kod jast dosyć ładnie skomentowany po angielsku, na zapas,  
+Kod jast dosyć ładnie skomentowany po angielsku,  
 może to też kiedyś przetłumaczę żeby było porządnie.  
   
 Proszę rapartować błędy.
