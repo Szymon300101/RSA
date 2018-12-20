@@ -13,6 +13,9 @@ funkaji Eulera, jej właściwości, arytmetyki modularnej i liczb pierwszych.
 Wikipedia dla zainteresowanych:  
 https://pl.wikipedia.org/wiki/RSA_(kryptografia)  
   
+Seria tutoriali z których sam się uczyłem RSA (RSA krok 1-4):  
+https://pl.khanacademy.org/computing/computer-science/cryptography#modern-crypt  
+  
 Profesjonalne szyfrowanie RSA wykorzystuje klucze długości setek bitów,  
 mi nie udało się tymczasowo tego osiągnąć, chociaż myślę że jestem blisko,  
 obecna wersja jest czysto symboliczna (złamanie jej nie zajęło by sekundy),  
